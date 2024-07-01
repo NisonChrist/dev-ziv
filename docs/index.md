@@ -8,10 +8,10 @@ hero:
   tagline: "作者：Ziv"
   actions:
     - theme: brand
-      text: 水文
-      link: /动态分区分配算法
+      text: FE
+      link: /0-变量
     - theme: alt
-      text: 无用的跳转
+      text: API-Example
       link: /api-examples
 features:
   - title: Feature A
