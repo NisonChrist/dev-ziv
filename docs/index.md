@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "测试测试测试"
+  name: "FE from Ziv"
   text: "Dev Blog"
-  tagline: "作者：Ziv"
+  tagline: "Written by Ziv"
   actions:
     - theme: brand
       text: FE Blog
