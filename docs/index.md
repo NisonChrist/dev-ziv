@@ -14,11 +14,11 @@ hero:
     #   text: API-Example
     #   link: /api-examples
 features:
-  - title: Feature A
+  - title: FE 白话文
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Dev 文章
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Computer Science 相关
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
