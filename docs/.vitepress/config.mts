@@ -8,14 +8,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'OS算法', link: '/动态分区分配算法' }
+      { text: 'JS', link: '/0-变量' }
     ],
 
     sidebar: [
       {
-        text: 'OS算法',
+        text: 'JavaScript',
         items: [
-          { text: '动态分区分配算法', link: '/动态分区分配算法' },
+          { text: '0-变量', link: '/0-变量' },
         ]
       }
     ],
